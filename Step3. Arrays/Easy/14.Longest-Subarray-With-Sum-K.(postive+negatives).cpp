@@ -1,4 +1,4 @@
-https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505
+// https://www.codingninjas.com/studio/problems/longest-subarray-with-sum-k_5713505
 
 
 #include <bits/stdc++.h> 
