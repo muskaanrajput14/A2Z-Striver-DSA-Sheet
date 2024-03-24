@@ -13,3 +13,7 @@ int bestTimeToBuyAndSellStock(vector<int>&prices) {
     }
     return maxprofit;
 }
+
+
+// tc-o(n)
+// sc-o(1)
