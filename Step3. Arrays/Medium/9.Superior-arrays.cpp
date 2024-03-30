@@ -1,7 +1,6 @@
 // https://www.naukri.com/code360/problems/superior-elements_6783446?leftPanelTabValue=PROBLEM
 
 vector<int> superiorElements(vector<int>&a) {
-    // Write your code here.
     vector<int> ans;
     int n = a.size();
     int temp = a[n-1];
